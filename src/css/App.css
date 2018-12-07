@@ -1,0 +1,119 @@
+.App-header {
+  font-family: "Dosis";
+  font-size: 30px;
+  text-align: center;
+}
+.credits {
+  font-family: "Dosis";
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+#find-id-button {
+  font-family: "Dosis";
+  margin-top: 5px;
+  text-align: center;
+  width: 350px;
+  height: 40px;
+  font-size: 20px;
+  border-width: 1px;
+  border-color: black;
+  color: black;
+  outline: none;
+}
+
+#find-id-button:hover {
+  color: #e9b443;
+  background-color: black;
+}
+
+#clear-button {
+  text-align: center;
+  margin-top: 20px;
+  width: 350px;
+  height: 40px;
+  font-size: 20px;
+  border-width: 1px;
+  border-color: black;
+  color: black;
+  outline: none;
+}
+
+#clear-button:hover {
+  color: #e9b443;
+  background-color: black;
+}
+
+#control-card {
+  text-align: center;
+  margin-top: 60px;
+  margin-right: 50px;
+  height: 700px;
+  background-color: #e9b443;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#result-card {
+  padding: 20px;
+  text-align: center;
+  margin-top: 60px;
+  margin-left: 50px;
+  height: 700px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#choose-button1 {
+  background-color: #e9b443;
+  color: black;
+  border-width: 1px;
+  border-color: black;
+  outline: none;
+  font-size: 14px;
+}
+
+#choose-button1:hover {
+  color: #e9b443;
+  background-color: black;
+}
+
+#choose-button2 {
+  background-color: #e9b443;
+  color: black;
+  border-width: 1px;
+  border-color: black;
+  outline: none;
+  font-size: 14px;
+}
+
+#choose-button2:hover {
+  color: #e9b443;
+  background-color: black;
+}
+
+#text-field {
+  width: 50px;
+  background-color: black;
+  color: #e9b443;
+  border-color: #e9bd43;
+  outline: none;
+  font-size: 16px;
+}
+
+#network-field {
+  width: 150px;
+  background-color: black;
+  color: #e9b443;
+  border-color: #e9bd43;
+  outline: none;
+  font-size: 20px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
